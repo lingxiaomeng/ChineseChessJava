@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/resources/client/Checkerboard.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/client/ClientThread.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/client/ClientView.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/client/Piece.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/client/Rule.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/enu/ClientMenu.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/server/ServerThread.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/server/ServerView.java" charset="UTF-8" />
+  </component>
+</project>
