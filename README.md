@@ -1,0 +1,2 @@
+# ChineseChessJava
+SUSTech JAVA Project
